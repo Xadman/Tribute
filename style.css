@@ -2,38 +2,57 @@
  text-align: center;
  margin:  40px;
 }
- #h2{
- margin: 40px;
-}
 
  #summary{ 
- margin: 60px; 
- margin-right: 200px;
- margin-left: 200px;
+   margin: 40px; 
+   margin-right: 200px;
+   margin-left: 200px;
 }
  img{
     width: 300px;
     height: 300px;
- 	 border-radius: 50%;
+ 	  border-radius: 50%;
     background-size: cover;
     background-position: center;
- }
+    border: solid 10px #acb072;
+    
+}
 
  #inline{
    text-align: center;
  }
  span{
-     margin: 100px;
+    border-style: ;
+    margin: 100px;
     font-style: italic;
     font-size: 30px;
+    font-weight: bolder;
+    background-color: #b3a159;
+    border-radius: 20px;
+    border-style: solid;
+    padding: 10px;
+
 }
- #h3{
-   margin-left: 150px ;
+ h3{
+    margin: 40px;
+    margin-right: 180px;
+    margin-left: 180px ;
  }
-  ul{ margin: 60px;
-  margin-left: 150px ; 
-  margin-right: 150px;
-}
+  ul{ 
+    margin: 40px;
+    margin-left: 150px ; 
+    margin-right: 150px;
+  }
+  h3{
+    padding: 10px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #7b79b0;
+ }
+ 
+
+  
+
 
 
 
