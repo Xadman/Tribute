@@ -18,10 +18,8 @@ body{
   background-color: #d6d08b;
 }
 
-
-
-
-#summary{        
+#summary{ 
+        
     background-color:#acb072; 
     padding: 10px;
     border-style: solid;
@@ -50,6 +48,7 @@ body{
  }
 
  span{
+
     border-style: ;
     margin: 100px;
     font-style: italic;
@@ -69,7 +68,6 @@ body{
  }
 
   ul{
-    margin-top: 10px all;
 
     margin-top: 10px all;
     margin: 40px;
